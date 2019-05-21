@@ -1,0 +1,12 @@
+name: Ultimate_Mission
+description: Ultimate Mission is made by HypexMC Development Team
+version: 2.0.0
+main: mc.hypexmc.net.UltimateMission
+permissions:
+  um.view:
+    description: Let's a Player opens the current Active Missions Panel.
+    default: op
+commands:
+  um:
+    description: Base Ultimate Missions Command
+    usage: /um view
